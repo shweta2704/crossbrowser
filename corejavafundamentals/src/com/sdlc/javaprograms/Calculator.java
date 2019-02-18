@@ -6,6 +6,7 @@ public class Calculator {
 	{
 		int c = a+b;
 		return c;
+		
 	}
 	
 	public int sub(int a, int b)
